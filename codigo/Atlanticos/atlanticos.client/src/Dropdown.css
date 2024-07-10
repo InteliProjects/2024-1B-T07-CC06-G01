@@ -1,0 +1,26 @@
+/* Dropdown.css */
+.custom-dropdown {
+    background-color: #5BAAE3; /* Azul */
+    color:#ffffff ;
+    padding: 10px;
+    border: 50;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  .custom-dropdown:focus {
+    outline: none;
+  }
+  
+  .custom-dropdown option {
+    background-color: white;
+    color: black;
+  }
+  
+  .dropdown-container {
+    display: flex;
+    justify-content: flex-end; 
+    margin-top: 20px;
+    margin-right: 50px;
+  }
+  

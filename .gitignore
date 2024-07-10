@@ -1,0 +1,14 @@
+.vscode
+target
+*.docx
+node_modules
+.vs
+/bin/
+/obj/
+codigo/Atlanticos/Atlanticos.Server/bin/Debug/net8.0/Atlanticos.Server.dll
+*.dll
+*.dll
+*.dll
+*.dll
+/codigo/Atlanticos/Atlanticos.Server/bin
+/codigo/Atlanticos/Atlanticos.Server/bin

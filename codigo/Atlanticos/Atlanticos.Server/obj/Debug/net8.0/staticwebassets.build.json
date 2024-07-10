@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "1y7o16/SsOKgl8emiDRVt2WkP7KqqRxrly4La/LsOP8=",
+  "Source": "Atlanticos.Server",
+  "BasePath": "_content/Atlanticos.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\andre\\Documents\\GitHub\\2024-1B-T07-CC06-G01\\codigo\\atlanticos\\atlanticos.client\\atlanticos.client.esproj",
+      "Version": 2,
+      "Source": "atlanticos.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

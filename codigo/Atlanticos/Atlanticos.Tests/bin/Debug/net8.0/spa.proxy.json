@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Inteli\\OneDrive\\Documentos\\2024-1B-T07-CC06-G01\\codigo\\Atlanticos\\Atlanticos.Server\\..\\atlanticos.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atlanticos.Server", "Atlanticos.Server\Atlanticos.Server.csproj", "{D9E69BE6-7E57-4ED4-8FBA-CB00AB473809}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "atlanticos.client", "atlanticos.client\atlanticos.client.esproj", "{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlanticos.Tests", "Atlanticos.Tests\Atlanticos.Tests.csproj", "{BA90959B-DD82-40CE-9AFB-E3C91A85D6B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E69BE6-7E57-4ED4-8FBA-CB00AB473809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E69BE6-7E57-4ED4-8FBA-CB00AB473809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E69BE6-7E57-4ED4-8FBA-CB00AB473809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E69BE6-7E57-4ED4-8FBA-CB00AB473809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5554C3A8-9EAE-439A-B10E-907C5CDB99B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BA90959B-DD82-40CE-9AFB-E3C91A85D6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA90959B-DD82-40CE-9AFB-E3C91A85D6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA90959B-DD82-40CE-9AFB-E3C91A85D6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA90959B-DD82-40CE-9AFB-E3C91A85D6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C7281E-DBC1-4844-8288-E08D93AFEEF4}
+	EndGlobalSection
+EndGlobal
